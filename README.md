@@ -24,15 +24,47 @@ This project simulates a Music player program with a user-friendly interface usi
 - There will also be a exit button for you to exit the proagram whether you stay logged in or not.
 - The status of the current song and the song name will be displayed at the top of the song duration slider.
 - You can click to choose the position of the duration slider.
-- The volume slider can be adjust. 
+- The volume slider can be adjust.
+- The exit button will be in all the screens.
 
 
 ## Installation and Run
 1. Open **Qt Creator**.
-2. Open **"Terminal"** and type **"git clone https://github.com/Almons65/Fitness_Vending_Machine_Simulation_QT.git"**
+2. Open **"Terminal"** and type **"git clone https://github.com/Almons65/Ultra_Music_Player_QT.git"**
 3. Open the **"CMakeLists.txt"** project.
 4. Build and run the application.
 
 
 DONE!
+
+
+## ScreenShots:
+
+
+Login Screen:
+
+
+![image](https://github.com/user-attachments/assets/c840c147-4f8d-40b2-a5d9-46741d433d55)
+
+
+
+Sign Up Screen:
+
+
+![image](https://github.com/user-attachments/assets/997bee5d-81da-4485-8663-69bd8da47e5c)
+
+
+
+Reset Password Screen:
+
+
+![image](https://github.com/user-attachments/assets/a1ea0a5e-7ffe-4f96-87ea-7a84ae3a1257)
+
+
+
+Music Player Screen:
+
+
+![image](https://github.com/user-attachments/assets/7de1db19-abbd-4143-859c-a3f63e04076c)
+
 
